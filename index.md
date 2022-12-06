@@ -11,18 +11,6 @@ Code of Conduct（行動規範）
  
 私たちは、この規範が皆さんの思う「よりよいコミュニティ」の在り方と合致していればとてもうれしく思います。
 
-※ 行動規範の違反を見つけた場合には [privacy@civictech.jp](<mailto:privacy@civictech.jp>) にメールでご連絡ください    
-
-一般社団法人シビックテックジャパン 行動規範 Ver.1.0 – 2022年12月6日制定版
-
-* [クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja)
-![](https://i.creativecommons.org/l/by/4.0/88x31.png)
- 
-この行動規範は[FOSS4G Hokkaidoの行動規範](https://foss4g.hokkaido.jp/code-of-conduct/)を元に作成されています。
-
-この行動規範は[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)で公開されています。   
-あなたの団体のオープンな行動規範の叩き台となれば幸いです。
-
 ### 多様性のために 
 他者を尊重してください。思いやりを持ってください。
 
@@ -75,5 +63,17 @@ Code of Conduct（行動規範）
 私たちは皆さんとともによりよい場所を作っていきます。
 皆さんのご協力に感謝します。
 
+
+※ 行動規範の違反を見つけた場合には [privacy@civictech.jp](<mailto:privacy@civictech.jp>) にメールでご連絡ください    
+
+* [クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja)
+![](https://i.creativecommons.org/l/by/4.0/88x31.png)
+ 
+この行動規範は[FOSS4G Hokkaidoの行動規範](https://foss4g.hokkaido.jp/code-of-conduct/)を元に作成されています。
+
+この行動規範は[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)で公開されています。   
+あなたの団体のオープンな行動規範の叩き台となれば幸いです。
+
 一般社団法人シビックテックジャパン
+Code of Conduct（行動規範）Ver.1.0 – 2022年12月6日制定版
 
