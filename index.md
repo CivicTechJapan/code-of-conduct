@@ -13,7 +13,7 @@ Code of Conduct（行動規範）
 
 ※ 行動規範の違反を見つけた場合には [privacy@civictech.jp](<mailto:privacy@civictech.jp>) にメールでご連絡ください    
 
-一般社団法人シビックテックジャパン 行動規範 Ver.0.1 – 2022年12月xx日制定版
+一般社団法人シビックテックジャパン 行動規範 Ver.1.0 – 2022年12月6日制定版
 
 * [クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja)
 ![](https://i.creativecommons.org/l/by/4.0/88x31.png)
